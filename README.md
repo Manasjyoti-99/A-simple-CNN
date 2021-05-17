@@ -1,1 +1,1 @@
-# A-simple-CNN
+# A-simple-CNN to classify CIFAR images
